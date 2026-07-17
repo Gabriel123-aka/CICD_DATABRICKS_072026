@@ -1,0 +1,5 @@
+1.- Databricks Fundamentals: https://customer-academy.databricks.com/learn/courses/2308/databricks-fundamentals-accreditation?hash=6d46ddfa3fcf04d4d46df6b9855d4103469c5e1e&generated_by=1567074
+
+2.- Academy Accreditation - Generative AI Fundamentals: https://credentials.databricks.com/2c46f82f-e79d-4ca8-8b05-a27709892f71
+
+3.- Academy Accreditation - Platform Administrator: https://credentials.databricks.com/dd659298-40fd-464e-857a-1eaa78aea19e
